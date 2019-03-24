@@ -1,2 +1,2 @@
-# Palindrome-Integer-
-A small program/project that figures out if a number is a palindrome number using integers.
+# Portfolio of Derrick Demers
+A portfolio of different projects I have made inn various languages to share with the world.
