@@ -1,7 +1,4 @@
-# Portfolio of Derrick Demers
-A portfolio of different projects I have made in various languages to share with the world.
-
-Languages I know: C++, C#, SQL, and COBOL
-Languages I would love to learn: HTML, Python, Java.
+# Smaller/Miscellanious Programs 
+A section of my portfolio where I have made smaller, less impressionable programs.
 
 # First File/Project: Palindrome Finder - Integer - C++
