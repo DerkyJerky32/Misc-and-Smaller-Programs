@@ -39,3 +39,6 @@ int main()
 	return 0;
 
 }
+
+//Note: I'm hoping to come back to this eventually to make it so that the program asks if the user would
+//	like to put in more numbers at the end of the run.
