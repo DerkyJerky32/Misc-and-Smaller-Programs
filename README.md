@@ -1,4 +1,5 @@
-# Smaller/Miscellanious Programs 
+# Smaller/Miscellanious Programs
+## Table of Contents
 A section of my portfolio where I have made smaller, less impressionable programs.
 
 # [Palindrome Finder - Integer - C++](https://github.com/DerkyJerky32/Misc-and-Smaller-Programs/blob/master/PalindromeFinderInteger.cpp "Derrick Demers - Palindrome (Integer)")
