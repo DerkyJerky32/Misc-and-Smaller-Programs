@@ -10,4 +10,4 @@ is a palindrome number (number the same forwards and back)
 This simple program gets a word from the user and checks to see if it is a palindrome
 
 # [Character Counter - C++](https://github.com/DerkyJerky32/Misc-and-Smaller-Programs/blob/master/CharacterCounter.cpp "Derrick Demers - Character Counter")
-This simmple program takes a user-defined word and counts the amount of characters in that word
+This simple program takes a user-defined word and counts the amount of characters in that word
