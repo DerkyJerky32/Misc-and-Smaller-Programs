@@ -11,3 +11,7 @@ This simple program gets a word from the user and checks to see if it is a palin
 
 # [Character Counter - C++](https://github.com/DerkyJerky32/Misc-and-Smaller-Programs/blob/master/CharacterCounter.cpp "Derrick Demers - Character Counter")
 This simple program takes a user-defined word and counts the amount of characters in that word
+
+# [User Defined Array - C++](https://github.com/DerkyJerky32/Misc-and-Smaller-Programs/blob/master/UserDefinedArray.cpp "Derrick Demers -
+User Defined Array"]
+This program takes an element from the user and sets it as the array size then takes additional elements from the user to store in that  array
