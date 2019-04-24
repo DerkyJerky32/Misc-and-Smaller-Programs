@@ -1,7 +1,7 @@
 //PLEASE READ THIS FIRST
 //I found this on Reddit and wanted to see if it actually worked.
 //Derrick Demers
-//This program (if you can call it that) deals with #define by changing literally every word in this function various forms of "Yeet"
+//This program (if you can call it that) deals with #define by changing literally every word in this function to various forms of "Yeet"
 //This program has no other purpose than to see if this would actually work
 
 #include <iostream>
