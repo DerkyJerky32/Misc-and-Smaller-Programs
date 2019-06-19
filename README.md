@@ -14,3 +14,6 @@ This simple program takes a user-defined word and counts the amount of character
 
 # [User Defined Array - C++](https://github.com/DerkyJerky32/Misc-and-Smaller-Programs/blob/master/UserDefinedArray.cpp "Derrick Demers - User Defined Array")
 This program takes an element from the user and sets it as the array size then takes additional elements from the user to store in that  array
+
+# [Video Game Quiz - Python](https://github.com/DerkyJerky32/Misc-and-Smaller-Programs/blob/master/VideoGameQuiz.py "Derrick Demers - Video Game Quiz")
+This short program is just a simple quiz centered around video games, made using Python
